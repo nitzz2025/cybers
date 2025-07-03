@@ -127,4 +127,4 @@ The tools tested provide valuable insights, but real security comes from applyin
 ---
 
 *Tools used: passwordmeter.com, howsecureismypassword.net, security.org*
-*Research sources: NIST guidelines, OWASP recommendations, cybersecurity blogs*
+*Research sources: NIST guidelines, OWASP recommendations, cybersecurity blogs,Ai tools (For concise research)*
