@@ -6,14 +6,14 @@ This report presents findings from testing 8 different passwords across multiple
 
 ## Methodology
 ### Test Passwords Created
-1. **Weak**: Simple dictionary word with numbers
-2. **Basic**: Personal information pattern
-3. **Medium**: Mixed case with symbol substitution
-4. **Strong**: Random-appearing with complexity
-5. **Very Strong**: High entropy random characters
-6. **Passphrase Weak**: Simple sentence
-7. **Passphrase Medium**: Modified sentence with numbers
-8. **Passphrase Strong**: Complex sentence with symbols
+1. **Weak**: password123 (Simple dictionary word with numbers)
+2. **Basic**: Mypasseord1 (Personal information pattern)
+3. **Medium**: MyP@ssw)rd2021 (Mixed case with symbol substitution)
+4. **Strong**: Tr0ubdor&3 (Random-appearing with complexity)
+5. **Very Strong**: K#9mQ$2vL@8mR! (High entropy random characters)
+6. **Passphrase Weak**: ilovedonut (Simple sentence)
+7. **Passphrase Medium**: ILovedonut123 (Modified sentence with numbers)
+8. **Passphrase Strong**: I-Love-Eating-donut-every-sunday@2025! (Complex sentence with symbols)
 
 ### Evaluation Tools
 - **passwordmeter.com**: Provides percentage scores and detailed feedback
