@@ -12,7 +12,6 @@ This repository contains my analysis of password security as part of my cybersec
 
 ## 🛠️ Tools Used
 - passwordmeter.com
-- howsecureismypassword.net
 - security.org password checker
 - Various cybersecurity research sources
 
