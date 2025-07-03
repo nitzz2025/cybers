@@ -17,8 +17,7 @@ This report presents findings from testing 8 different passwords across multiple
 
 ### Evaluation Tools
 - **passwordmeter.com**: Provides percentage scores and detailed feedback
-- **howsecureismypassword.net**: Estimates time to crack
-- **security.org**: Offers strength ratings and improvement suggestions
+- **security.org**: Estimates time to crack & Offers strength ratings and improvement suggestions
 
 ## Test Results Summary
 
