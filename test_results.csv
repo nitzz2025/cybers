@@ -1,1 +1,10 @@
 
+Password_Type,Password_Length,Character_Types,PasswordMeter_Score,HowSecure_Time,SecurityOrg_Rating,Key_Strengths,Key_Weaknesses
+Weak,11,2,"18/100","Instantly","Very Weak","None identified","Dictionary word, predictable numbers"
+Basic,11,3,"32/100","2 minutes","Weak","Mixed case","Personal info pattern, common structure"
+Medium,14,4,"67/100","3 days","Fair","All character types","Predictable substitutions, known pattern"
+Strong,11,4,"84/100","34 years","Strong","High entropy, unpredictable","Could be longer"
+Very_Strong,15,4,"96/100","200 million years","Very Strong","Maximum entropy, all types","None significant"
+Passphrase_Weak,12,1,"23/100","2 hours","Weak","Memorable","No complexity, common words"
+Passphrase_Medium,16,3,"71/100","2 months","Good","Length, some complexity","Predictable structure"
+Passphrase_Strong,35,4,"91/100","400 years","Very Strong","Length and complexity","None significant"
