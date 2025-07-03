@@ -9,7 +9,7 @@ This report presents findings from testing 8 different passwords across multiple
 1. **Weak**: password123 (Simple dictionary word with numbers)
 2. **Basic**: Mypasseord1 (Personal information pattern)
 3. **Medium**: MyP@ssword2021 (Mixed case with symbol substitution)
-4. **Strong**: Tr0ubdor&3 (Random-appearing with complexity)
+4. **Strong**: Tr0ubdor&3! (Random-appearing with complexity)
 5. **Very Strong**: K#9mQ$2vL@8mR! (High entropy random characters)
 6. **Passphrase Weak**: ilovedonut (Simple sentence)
 7. **Passphrase Medium**: ILovedonut123 (Modified sentence with numbers)
@@ -23,14 +23,14 @@ This report presents findings from testing 8 different passwords across multiple
 
 | Password Type | Avg Score | Time to Crack | Key Weaknesses |
 |---------------|-----------|---------------|----------------|
-| Weak | 15/100 | Instantly | Dictionary word, predictable |
-| Basic | 35/100 | 2 minutes | Personal info pattern |
-| Medium | 65/100 | 3 days | Predictable substitutions |
-| Strong | 85/100 | 34 years | Good complexity |
-| Very Strong | 95/100 | 200M years | High entropy |
-| Passphrase Weak | 25/100 | 2 hours | No complexity |
-| Passphrase Medium | 70/100 | 2 months | Predictable structure |
-| Passphrase Strong | 90/100 | 400 years | Length + complexity |
+| Weak | 43/100 | 1 month | Dictionary word, predictable |
+| Basic | 62/100 | 41 years | Personal info pattern |
+| Medium | 80/100 | 200  years | Predictable substitutions |
+| Strong | 90/100 | 400 years | Good complexity |
+| Very Strong | 100/100 | 200M years | High entropy |
+| Passphrase Weak | 11/100 | 58 Minutes| No complexity |
+| Passphrase Medium | 84/100 | 100 years | Predictable structure |
+| Passphrase Strong | 100/100 | 300 sexdecillion years | Length + complexity |
 
 ## Analysis of Password Strength Factors
 
