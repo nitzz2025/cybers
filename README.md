@@ -43,5 +43,5 @@ This project prepared me to answer key questions about:
 - Security tool evaluation
 
 ---
-*Completed as part of Cybersecurity Internship Program*
+*Completed as part of Cybersecurity Internship Program*  
 *Intern: [Nitesh Rauthan]*
