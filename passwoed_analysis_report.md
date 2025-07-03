@@ -8,7 +8,7 @@ This report presents findings from testing 8 different passwords across multiple
 ### Test Passwords Created
 1. **Weak**: password123 (Simple dictionary word with numbers)
 2. **Basic**: Mypasseord1 (Personal information pattern)
-3. **Medium**: MyP@ssw)rd2021 (Mixed case with symbol substitution)
+3. **Medium**: MyP@ssw0rd2021 (Mixed case with symbol substitution)
 4. **Strong**: Tr0ubdor&3 (Random-appearing with complexity)
 5. **Very Strong**: K#9mQ$2vL@8mR! (High entropy random characters)
 6. **Passphrase Weak**: ilovedonut (Simple sentence)
